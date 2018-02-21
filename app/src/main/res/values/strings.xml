@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VolleyLib Demonstration</string>
+    <string name="custom_api_request">Custom API Request</string>
+    <string name="json_api_request">JSON OBJECT API REQUEST</string>
+    <string name="load_image_from_url">LOAD IMAGE</string>
+</resources>
